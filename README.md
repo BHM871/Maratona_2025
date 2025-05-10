@@ -1,4 +1,4 @@
-# Repositório para armazenar os conteúdos das aulas
+# Maratona 2025
 
 ## Complexidade e Estrutura de Dados
 
