@@ -26,7 +26,7 @@ int main() {
   
     std::cout << out << '\n';
   
-    // Quadratico | Descubra se uma lista possui números repitidos
+    // Quadratica | Descubra se uma lista possui números repetidos
     int n;
     std::cin >> n;
     
