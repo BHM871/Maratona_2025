@@ -1,0 +1,22 @@
+Vector
+    Tabela Hash -> https://judge.beecrowd.com/pt/problems/view/1256
+
+Map
+    Eleições -> https://br.spoj.com/problems/ELEICOES/
+    O Hall Dos Assasinos -> https://judge.beecrowd.com/pt/problems/view/1861
+
+Set
+    Creating Strings -> https://cses.fi/problemset/task/1622
+    Troca de Cartas -> https://neps.academy/br/exercise/278
+
+Queue
+    Jogando Cartas Fora -> https://judge.beecrowd.com/pt/problems/view/1110
+
+
+Priority Queue
+    Telemarketing -> https://neps.academy/br/exercise/265
+    Eu posso adivinhar a estrutura -> https://judge.beecrowd.com/pt/problems/view/1340
+
+Stack
+    Diamantes e Areia -> https://judge.beecrowd.com/pt/problems/view/1069
+    Menor da Pilha -> https://judge.beecrowd.com/pt/problems/view/2929
