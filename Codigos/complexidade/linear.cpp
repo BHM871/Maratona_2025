@@ -6,6 +6,7 @@ using namespace std;
 
 int main() {
     // Linear | Procure um inteiro dentro de uma lista
+    // Solução com vetor
     int n;
     cin >> n;
   
@@ -20,6 +21,7 @@ int main() {
     
     cout << interios[procurar] << '\n';
 
+    // Solução com map
     int n2; cin >> n2;
  
     map<int, int> maps;
