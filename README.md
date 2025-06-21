@@ -19,7 +19,7 @@ Vimos também as principais Estruturas de Dados que vamos utilizar: Array, Set e
 
 Resolvi os problemas da aula anterior em tempo constante, utilizando `vector<?>`, `set<?>` e `map<?>`
 
-Expliquei mais três estruturas e como funcionam
+Expliquei conficiona mais três estruturas `queue<?>`, `priority_queue<?>` e `stack<?>`
 
 > ### Atividade:
 > - Acesse o arquivo `Codigos/estrutura_dados/problemas.txt`
