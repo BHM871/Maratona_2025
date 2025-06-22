@@ -1,5 +1,7 @@
 # Maratona 2025
 
+![Logo Maratona 2025](/Assets/Thumbnail.png)
+
 ## Complexidade e Estrutura de Dados
 
 - Imagens: https://excalidraw.com/#json=wCoMWDawPtFj-xT4v83mH,rrDVDaFpUmjxGWlXVyef0A
